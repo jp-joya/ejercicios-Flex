@@ -1,0 +1,7 @@
+Programa 4: Reconocimiento de tokens
+En esta tarea, escribirá un programa en LEX para reconocer tokens específicos e imprimir sus valores. Siga estos pasos para completar la tarea:
+
+Utilice LEX para definir los tokens como NUMBER, ADD, SUB, MUL, DIV, ABS y EOL junto con sus valores correspondientes.
+Implemente la lógica para reconocer estos tokens en la entrada e imprimir sus valores junto con el propio token.
+Asegúrese de que su programa maneje los casos en los que la entrada contenga tokens no reconocidos.
+Pruebe su programa con varias cadenas de entrada para verificar su reconocimiento e impresión de tokens.
