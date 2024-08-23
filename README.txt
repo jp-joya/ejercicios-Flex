@@ -1,3 +1,8 @@
+integrantes
+Juan Joya
+Juan Gallardo
+Jefferson Gutierrez
+
 #1#CONTADOR DE CARACTERES, PALABRAS Y LÍNEAS
 Este programa en Flex cuenta el número de caracteres, palabras y líneas en un archivo de texto.
 
